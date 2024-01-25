@@ -2,7 +2,7 @@ engg_syllabus
 			{ 
 			font-size:80%; 
 			margin:0.5em; 
-			font-family: Verdana; 
+			font-family: sans-serif; 
 			display:block; 
             padding: 15px;
             
@@ -35,7 +35,7 @@ name, subject1, subject2, subject3, subject4 {
 								} 
 
 name { 
-	color:rgb(77, 0, 128); 
+	color:rgb(178, 164, 187); 
 	text-decoration: underline ; 
 	font-weight:bolder; 
 	font-size:20px; 

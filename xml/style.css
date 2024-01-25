@@ -1,0 +1,45 @@
+engg_syllabus 
+			{ 
+			font-size:80%; 
+			margin:0.5em; 
+			font-family: Verdana; 
+			display:block; 
+            padding: 15px;
+            
+			}
+            
+FY, SY, TY, BTECH { 
+			display:block; 
+			border: 1px solid silver; 
+			margin:0.5em; 
+			padding:0.5em; 
+			background-color:whitesmoke; 
+            padding: 5px;
+            margin-top: 20px;
+			} 
+
+title { 
+	display:block; 
+	font-weight:bolder; 
+	text-align:center; 
+	font-size:50px; 
+	background-color: rgb(95, 22, 0); 
+	color: white; 
+
+	} 
+
+name, subject1, subject2, subject3, subject4 { 
+								display:block; 
+								text-align:center; 
+                                margin: 5px;
+								} 
+
+name { 
+	color:rgb(77, 0, 128); 
+	text-decoration: underline ; 
+	font-weight:bolder; 
+	font-size:20px; 
+	} 
+subject1, subject2, subject3, subject4{
+	color:rgb(141, 55, 199); 
+}

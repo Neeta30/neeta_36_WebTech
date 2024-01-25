@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="style.css"?> 
+<engg_syllabus>
+	<title>Engineering syllabus</title> 
+	<FY> 
+		<name>First Year Engineering</name> 
+		<subject1>Engineering Physics</subject1> 
+		<subject2>Engineering Chemisty</subject2> 
+		<subject3>Fundamentals of Mechanical Engineering</subject3> 
+		<subject4>Fundamentals of Civil Engineering</subject4> 
+	</FY>
+
+	<SY> 
+		<name>Second Year Engineering</name> 
+		<subject1>Advanced C Programming</subject1> 
+		<subject2>Automata Theory</subject2> 
+		<subject3>Java Programming</subject3> 
+		<subject4>Software Engineering</subject4> 
+	</SY>
+
+	<TY> 
+		<name>Third Year Engineering</name> 
+		<subject1>Advanced Programming Language</subject1> 
+		<subject2>Web Technology</subject2> 
+		<subject3>Cloud Computing</subject3> 
+		<subject4>Database Engineering</subject4> 
+	</TY>
+
+	<BTECH> 
+		<name>Final Year Engineering</name> 
+		<subject1>Data Analysis and Algorithm</subject1> 
+		<subject2>Software Defined Networks</subject2> 
+		<subject3>Statistics and Fuzzy System</subject3> 
+		<subject4>Computer Networks</subject4> 
+	</BTECH>
+	
+</engg_syllabus>

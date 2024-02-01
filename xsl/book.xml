@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xs/"href="lib.xsl"?>
+<booklibrary>
+    <book>
+        <bookname>XML</bookname>
+        <price>100</price>
+        <author>Atul Kahate</author>
+        <publisher>TMH</publisher>
+    </book>
+    <book>
+        <bookname>Shyam chi aai</bookname>
+        <price>150</price>
+        <author>Saneguruji</author>
+        <publisher>XYZ</publisher>
+    </book>
+    <book>
+        <bookname>Web Technology</bookname>
+        <price>300</price>
+        <author>Rahul Patil</author>
+        <publisher>ABP</publisher>
+    </book>
+    <book>
+        <bookname>Software Engineering</bookname>
+        <price>350</price>
+        <author>Rohan Patil</author>
+        <publisher>BMW</publisher>
+    </book>
+</booklibrary>
